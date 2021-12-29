@@ -13,7 +13,7 @@
                 <div class="l-header__content">
                     <div class="c-header-logo">
                         <a href="/" class="c-header-logo__link">
-                            <img src="~/assets/images/common/logo.svg" alt="ロゴ：match">
+                            <img src="~/assets/images/common/logo.svg" alt="ロゴ：SAGACELL">
                         </a>
                         <span class="c-header-logo__tag-line">探せる・見つかる・エクセル関数</span>
                     </div>
